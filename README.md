@@ -1,4 +1,4 @@
 co-udp
 ------
 
-Module for [co](https://github.com/visionmedia/co) to work with Node.js UDP module
+[co](https://github.com/visionmedia/co) wrapper for Node.js UDP module
