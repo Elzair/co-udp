@@ -21,7 +21,5 @@
   },
   "homepage": "https://github.com/Elzair/co-udp",
   "dependencies": {},
-  "devDependencies": {
-    "co": "^3.0.6"
-  }
+  "devDependencies": {}
 }
